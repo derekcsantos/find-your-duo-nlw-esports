@@ -4,7 +4,7 @@
 <p align="center">
 <a href="#-sobre">Sobre</a> •
 <a href="#-features">Features</a> •
-<a href="#-instalacao">Pré-Requisitos e Instalação</a> •
+<a href="#-instalacao">Instalação</a> •
 <a href="#-tecnologias">Tecnologias</a> •
 <a href="#-autor">Autor</a>
 </p>
@@ -37,7 +37,7 @@ Esse projeto foi proposto pela [Rocketseat](https://www.rocketseat.com.br/) dura
 - [ ] Login Social com Discord
 - [ ] Autenticação dos dados na criação dos anúncios
 
-## ℹ Pré-requisitos
+## ℹ Instalação
 Antes de começar, é necessário ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
